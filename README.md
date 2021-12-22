@@ -1,3 +1,3 @@
 # rotary_cellphone_dialer
 code for the rotary cellphone
-[My image](username.github.com/repository/img/image.jpg)
+[My image](gr0m17.github.com/rotary_cellphone_dialer/rotaryCellImageStack.png)
